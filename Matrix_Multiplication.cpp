@@ -1,4 +1,4 @@
-//this program multiplies 2 matrix of any order
+//this program multiplies 2 matrices of any order
 #include<iostream>
 using namespace std;
 int main()
@@ -40,7 +40,7 @@ if(col1==row2)
 			cin>>b[i][j];
 		}
 	}
-//filling all elements of resultant array as zero
+//filling all elements of the resultant array as zero
 	for(i=0;i<col2;i++)
 	{
 		for(j=0;j<row1;j++)
@@ -73,6 +73,6 @@ if(col1==row2)
 	}
 }
 else
-	cout<<"\nPlease learing basic arithmetics before using computers";
+	cout<<"\nPlease learning basic arithmetics before using computers";
 
 }

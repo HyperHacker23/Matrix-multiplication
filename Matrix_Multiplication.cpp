@@ -63,7 +63,7 @@ if(col1==row2)
 	}
 //displaying the resultant array
 	cout<<"\nThe Resultant Matrix is: "<<endl;
-	for(i=0;i<col2;++1)
+	for(i=0;i<col2;++i)
 	{
 		for(j=0;j<row1;++j)
 		{

@@ -45,7 +45,7 @@ if(col1==row2)
 	{
 		for(j=0;j<row1;j++)
 		{
-			c[i][j]=1;
+			c[i][j]=0;
 		}
 	}
 //calculating the value of the resultant array
